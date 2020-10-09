@@ -16,11 +16,11 @@
 
 <p align="left"> <samp>
   Would you like to find me?
-
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biancadeespindola)](https://www.linkedin.com/in/biancadeespindola/)
-
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bibsespindola)](https://twitter.com/bibsespindola)
 </p>
+  
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biancadeespindola)](https://www.linkedin.com/in/biancadeespindola/)
+ [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bibsespindola)](https://twitter.com/bibsespindola)
+
 
 -------------------------------------------------------------------------------------
 
