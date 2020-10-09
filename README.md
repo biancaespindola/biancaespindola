@@ -14,10 +14,6 @@
   
 -------------------------------------------------------------------------------------
 
-<p align="center"> <samp>
-  Languages and Tools:
-</p>
-  
 <a href="https://github.com/biancaespindola/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=biancaespindola&show_icons=true&theme=buefy" alt="Bianca's github stats" />
 </a>
