@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biancaespindola&show_icons=true&locale=en" alt="biancaespindola" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biancaespindola&" alt="biancaespindola" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=biancaespindola&theme=dark)](https://git.io/streak-stats)
