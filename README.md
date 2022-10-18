@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bianca Espindola</h1>
+<h1 align="center">Hi there 🧡, I'm Bianca Espindola</h1>
 <h3 align="center">A passionate frontend developer and travel lover from Brazil ✈</h3>
 
 - 🔭 I’m currently working on **Dashboard IoT**
