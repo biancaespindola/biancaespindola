@@ -1,7 +1,7 @@
 <h1 align="center">Hi here 🧡, I'm Bianca Espindola</h1>
 <h3 align="center">A passionate frontend developer and travel lover from Brazil ✈</h3>
 
-- 🔭 I’m currently working on **Dashboard IoT**
+- 🔭 I’m currently working on **Ignite feed**
 
 - 🌱 I’m currently learning **React.js, Typescript, Next.js and Node.js**
 
