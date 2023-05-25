@@ -1,5 +1,5 @@
 <h1 align="center">Hi here 🧡, I'm Bianca Espindola</h1>
-<h3 align="center">A passionate frontend developer and travel lover from Brazil ✈</h3>
+<h3 align="center">An enthusiastic frontend developer and travel lover half italian half brasilian ✈</h3>
 
 - 🔭 I’m currently working on **Ignite feed**
 
