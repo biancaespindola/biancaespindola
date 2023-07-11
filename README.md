@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, Typescript, Next.js and Node.js**
 
-- 📫 How to reach me **biancadeespindola@hotmail.com**
+- 📫 How to reach me **biancadeespindola95@gmail.com**
 
 - ⚡ Fun fact **I always program listening to music and drinking coffee**
 
