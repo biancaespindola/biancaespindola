@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **biancadeespindola95@gmail.com**
 
-- ⚡ Fun fact **I always program listening to music and drinking coffee**
+- ⚡ Fun fact **I love coding while listening to music and drinking coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
