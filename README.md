@@ -1,7 +1,7 @@
 <h1 align="center">Hi here 🧡, I'm Bianca Espindola</h1>
 <h3 align="center">An enthusiastic frontend developer and travel lover, half Italian half Brazilian ✈</h3>
 
-- 🔭 I’m currently working on **Ignite feed**
+- 🔭 I’m currently working on **Voice Notes Ease**
 
 - 🌱 I’m currently learning **React.js, Typescript, Next.js and Node.js**
 
