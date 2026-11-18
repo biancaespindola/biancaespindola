@@ -1,26 +1,60 @@
-<h1 align="center">Hi here 🧡, I'm Bianca Espindola</h1>
-<h3 align="center">An enthusiastic frontend developer and travel lover, half Italian half Brazilian ✈</h3>
-
-- 🔭 I’m currently working on **Voice Notes Ease**
-
-- 🌱 I’m currently learning **React.js, Typescript, Next.js and Node.js**
-
-- 📫 How to reach me **biancadeespindola95@gmail.com**
-
-- ⚡ Fun fact **I love coding while listening to music and drinking coffee**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/biancaespindola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="biancaespindola" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/biancadeespindola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biancadeespindola" height="30" width="40" /></a>
-<a href="https://instagram.com/bibsespindola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bibsespindola" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/avatar.png" alt="Illustration of Bianca in a Santa hat" width="160" height="160" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">Oi! · Ciao! · Hallo! · Hi! I'm Bianca 🧡</h1>
+<h3 align="center">I turn tricky problems into friendly interfaces.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biancaespindola&show_icons=true&locale=en&layout=compact" alt="biancaespindola" /></p>
+<p align="center">
+  Frontend developer at ComeOn in Graz, Austria. Half Brazilian, half Italian, powered by coffee, good books and way too much Zelda.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biancaespindola&show_icons=true&locale=en" alt="biancaespindola" /></p>
+<p align="center">
+  <a href="https://biancaespindola.netlify.app"><b>🌐 Portfolio</b></a> ·
+  <a href="https://biancaespindola.netlify.app/en/case-studies"><b>📚 Case studies</b></a> ·
+  <a href="https://biancaespindola.netlify.app/en/cv"><b>📄 CV</b></a> ·
+  <a href="https://www.linkedin.com/in/biancadeespindola/"><b>💼 LinkedIn</b></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biancaespindola&" alt="biancaespindola" /></p>
+---
+
+### ✨ Highlights
+
+- 🏆 **Make It Happen**, ComeOn Summer Awards 2026
+- 💻 **7 years** building for the web, from IoT dashboards to sportsbooks
+- 🌍 **Multilingual** products shipped in EN, PT-BR and DE-AT
+- 🤝 **People person**, ex-Head of HR at EJEC, where I introduced 1:1s
+
+### 🗺️ My map
+
+**Florianópolis, Brazil** → **Bari, Italy** → **Graz, Austria**
+UFSC · LARM · EJEC · Khomp → Khomp, remote → ComeOn
+
+### 📚 Case studies
+
+- 🎄 [**How I built my site**](https://biancaespindola.netlify.app/en/case-studies/this-site): four languages with Next.js 16, design tokens and a public decision log
+- ⭐ [**Sportsbook features at ComeOn**](https://biancaespindola.netlify.app/en/case-studies/sportsbook): Boosted Odds and Bet Builder in React and Next.js, in three languages
+- 🛡️ [**Securing a cardiac wearable**](https://biancaespindola.netlify.app/en/case-studies/iomt-security): AES-256, SPECK and CLEFIA for ECG data on IoMT devices, published at SBSEG 2022
+
+### 🛠️ What I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,postgres,cpp,figma,git" alt="React, Next.js, TypeScript, JavaScript, Tailwind, Node.js, PostgreSQL, C++, Figma, Git" />
+</p>
+
+Zustand · Redux · TanStack Query · Storybook · accessibility (WCAG) · testing · code review
+
+### 🎮 Off the clock
+
+- 📖 Always lost in a good book: _The Lord of the Rings_, _Anne of Green Gables_, Carl Sagan
+- 🗡️ Gamer with more enthusiasm than technique: _Zelda_ and _Stardew Valley_
+- 🏛️ Museum wanderer and keeper of oddly specific Brazilian royal family trivia
+- 🎄 Christmas market hunter and festive mug collector
+- 🗣️ Portuguese (native) · English (bilingual) · Italian (A2) · German (A1)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biancaespindola&show_icons=true&hide_border=true&bg_color=fff7f2&title_color=b4235a&icon_color=276b5c&text_color=2a1b2e" alt="Bianca's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biancaespindola&layout=compact&hide_border=true&bg_color=fff7f2&title_color=b4235a&text_color=2a1b2e" alt="Most used languages" height="165" />
+</p>
+
+<p align="center"><i>Let's grab a coffee ☕ Open to good conversations, in four languages if you like.</i></p>
