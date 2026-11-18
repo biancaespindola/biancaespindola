@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/avatar.png" alt="Illustration of Bianca in a Santa hat" width="160" height="160" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg" />
+    <img src="assets/logo-light.svg" alt="Bianca" width="280" />
+  </picture>
 </p>
 
 <h1 align="center">Oi! · Ciao! · Hallo! · Hi! I'm Bianca 🧡</h1>
