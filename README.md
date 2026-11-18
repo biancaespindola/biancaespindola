@@ -26,7 +26,7 @@
 - 🏆 **Make It Happen**, ComeOn Summer Awards 2026
 - 💻 **7 years** building for the web, from IoT dashboards to sportsbooks
 - 🌍 **Multilingual** products shipped in EN, PT-BR and DE-AT
-- 🤝 **People person**: I do my best work in collaboration, building trust and helping teams communicate clearly. As Head of HR at EJEC, I introduced regular 1:1s.
+- 🤝 **People person**: I do my best work in collaboration, building trust and helping teams communicate clearly.
 
 ### 🗺️ My map
 
