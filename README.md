@@ -16,7 +16,7 @@
   <a href="https://biancaespindola.is-a.dev"><b>🌐 Portfolio</b></a> ·
   <a href="https://biancaespindola.is-a.dev/en/case-studies"><b>📚 Case studies</b></a> ·
   <a href="https://biancaespindola.is-a.dev/en/cv"><b>📄 CV</b></a> ·
-  <a href="https://www.linkedin.com/in/biancadeespindola/"><b>💼 LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/espindolabianca/"><b>💼 LinkedIn</b></a>
 </p>
 
 ---
