@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://biancaespindola.netlify.app"><b>🌐 Portfolio</b></a> ·
-  <a href="https://biancaespindola.netlify.app/en/case-studies"><b>📚 Case studies</b></a> ·
-  <a href="https://biancaespindola.netlify.app/en/cv"><b>📄 CV</b></a> ·
+  <a href="https://biancaespindola.is-a.dev"><b>🌐 Portfolio</b></a> ·
+  <a href="https://biancaespindola.is-a.dev/en/case-studies"><b>📚 Case studies</b></a> ·
+  <a href="https://biancaespindola.is-a.dev/en/cv"><b>📄 CV</b></a> ·
   <a href="https://www.linkedin.com/in/biancadeespindola/"><b>💼 LinkedIn</b></a>
 </p>
 
@@ -35,9 +35,9 @@ UFSC · LARM · EJEC · Khomp → Khomp, remote → ComeOn
 
 ### 📚 Case studies
 
-- 🎄 [**How I built my site**](https://biancaespindola.netlify.app/en/case-studies/this-site): four languages with Next.js 16, design tokens and a public decision log
-- ⭐ [**Sportsbook features at ComeOn**](https://biancaespindola.netlify.app/en/case-studies/sportsbook): Boosted Odds and Bet Builder in React and Next.js, in three languages
-- 🛡️ [**Securing a cardiac wearable**](https://biancaespindola.netlify.app/en/case-studies/iomt-security): AES-256, SPECK and CLEFIA for ECG data on IoMT devices, published at SBSEG 2022
+- 🎄 [**How I built my site**](https://biancaespindola.is-a.dev/en/case-studies/this-site): four languages with Next.js 16, design tokens and a public decision log
+- ⭐ [**Sportsbook features at ComeOn**](https://biancaespindola.is-a.dev/en/case-studies/sportsbook): Boosted Odds and Bet Builder in React and Next.js, in three languages
+- 🛡️ [**Securing a cardiac wearable**](https://biancaespindola.is-a.dev/en/case-studies/iomt-security): AES-256, SPECK and CLEFIA for ECG data on IoMT devices, published at SBSEG 2022
 
 ### 🛠️ What I work with
 
